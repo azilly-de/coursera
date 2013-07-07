@@ -1,4 +1,4 @@
-coursera - Discrete Optimization (Pascal Van Hentenryck)
+Discrete Optimization (Pascal Van Hentenryck)
 ========
 
 Notizen und Unterlagen zu "Discrete Optimization
