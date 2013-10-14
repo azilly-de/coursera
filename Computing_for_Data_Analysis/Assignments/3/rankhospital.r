@@ -48,7 +48,9 @@ rankhospital <- function(state, outcome, num = "best") {
       data[show_rank,1]
     } else if(num == "worst") {
       data[length(data$Rank),1]
-    } else {
+    } else if(num == "best") {
       data[0,1]
+    } else {
+      NA
     }
 }
